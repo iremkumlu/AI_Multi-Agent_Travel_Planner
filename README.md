@@ -61,7 +61,6 @@ Bu proje, LangGraph kullanılarak oluşturulmuş çoklu ajan mimarisine sahip bi
     ```bash
     python AI_Multi-Agent_Travel_Planner.py
     ```
-    _(Script dosyanızın adını `AI_Multi-Agent_Travel_Planner.ipynb.py` yerine yazın.)_
 
 ## Kullanım
 
